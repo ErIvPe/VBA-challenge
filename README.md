@@ -1,3 +1,4 @@
+Erik Pena 01/10/23
 # VBA Homework: The VBA of Wall Street
 
 ## Background
